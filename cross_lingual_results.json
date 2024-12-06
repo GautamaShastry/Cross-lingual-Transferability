@@ -1,0 +1,15 @@
+{
+    "English Results": {
+        "eval_loss": 3.7332396507263184,
+        "eval_runtime": 1.5761,
+        "eval_samples_per_second": 126.893,
+        "eval_steps_per_second": 15.862,
+        "epoch": 0.9523809523809523
+    },
+    "Swahili Results (Zero-Shot)": {
+        "eval_runtime": 49.0983,
+        "eval_samples_per_second": 4.073,
+        "eval_steps_per_second": 0.509,
+        "epoch": 0.9523809523809523
+    }
+}
