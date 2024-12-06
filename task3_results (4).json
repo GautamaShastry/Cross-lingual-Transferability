@@ -1,0 +1,10 @@
+{
+    "English Accuracy": 0.702,
+    "Arabic Accuracy": 0.593,
+    "Swahili Accuracy": 0.497,
+    "English F1 Score": 0.702434066958095,
+    "Arabic F1 Score": 0.5895884268624383,
+    "Swahili F1 Score": 0.49355697307431595,
+    "Arabic Transfer Efficiency": 0.8447293447293447,
+    "Swahili Transfer Efficiency": 0.707977207977208
+}
